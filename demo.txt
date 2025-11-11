@@ -1,2 +1,8 @@
 i am harshita sisodiya
 1
+<<<<<<< HEAD
+=======
+2
+3
+conflict
+>>>>>>> main
